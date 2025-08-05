@@ -1,6 +1,6 @@
 # Debianzera
 
-A lightweight and easy-to-provision development VM powered by **Vagrant** and **DebAnsibleian**, with **Docker Engine preinstalled and configured with TLS support**.
+A lightweight and easy-to-provision development VM powered by **Vagrant** and **Ansible**, with **Docker Engine preinstalled and configured with TLS support**.
 
 Ideal for testing, development, and secure Docker client/daemon setups.
 
